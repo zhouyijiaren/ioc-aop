@@ -2,7 +2,6 @@ package com.mySpring.autowired;
 
 
 import com.mySpring.aop.ProxyFactory;
-import com.sun.xml.internal.bind.annotation.OverrideAnnotationOf;
 
 import java.util.HashMap;
 import java.util.Map;
